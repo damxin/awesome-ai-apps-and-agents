@@ -12,3 +12,6 @@ We welcome contributions! If you have an AI app, agent, or enhancement to share,
 
 ## **📜 License**  
 This repository is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
+
+使用步骤可参考：
+https://mp.weixin.qq.com/s/8Zo3lpHIDQi5N12qXs3gQw
